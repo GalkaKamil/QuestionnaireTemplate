@@ -60,6 +60,38 @@ body{
     
 }
 
+.container{
+    background: rgba(54, 120, 226, 0.7);
+    height: 500px;
+    width: 500px;
+    
+}
+
+.first{
+    background: rgba(241, 59, 59, 0.7);
+    height: 200px;
+    width: 200px;
+    
+}
+.second{
+    background: rgba(241, 59, 59, 0.7);
+    height: 200px;
+    width: 200px;
+    
+}
+.third{
+    background: rgba(241, 59, 59, 0.7);
+    height: 200px;
+    width: 200px;
+    
+}
+
+#box-style{
+    margin-top: 10px;
+    border-radius: 30px;
+    margin-left: 10px;
+}
+
 
 
 
