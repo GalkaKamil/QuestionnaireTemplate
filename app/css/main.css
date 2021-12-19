@@ -1,0 +1,35 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.background{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+    z-index: -1;
+}
+
+.hogwarts-image{
+ height: auto;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
+
+nav div{
+    margin: 20px 40px;
+    border-radius: 15px;
+}
+
+nav div:hover{
+    text-decoration-line: underline;
+}
+
+.contact-nav{
+    margin-right: 200px;
+}
